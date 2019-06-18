@@ -2,6 +2,10 @@ const express = require('express');
 const router = express.Router();
 const Player = require('./model')
 
+router.get('/', (req,res) => {
+    Player.find({}).then(players => res.json(players));
+});
+
 router.get('/:name', (req,res) => {
     Player.find({ name: req.params.name})
     .then(player => res.json(player));
