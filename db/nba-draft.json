@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Zion Williamson",
+        "age": 18,
+        "college": "Duke University"
+    },
+    {
+        "name": "Ja Morant",
+        "age": 19,
+        "college": "Murray State"
+    },
+    {
+        "name": "RJ Barrett",
+        "age": 19,
+        "college": "Duke University"
+    },
+    {
+        "name": "Jarrett Culver",
+        "age": 20,
+        "college": "Texas Tech"
+    },
+    {
+        "name": "Brandon Clarke",
+        "age": 22,
+        "college": "Gonzaga"
+    },
+    {
+        "name": "DeAndre Hunter",
+        "age": 21,
+        "college": "University of Virginia"
+    },
+    {
+        "name": "Darius Garland",
+        "age": 19,
+        "college": "Vanderbilt"
+    },
+    {
+        "name": "Cameron Reddish",
+        "age": 19,
+        "college": "Duke University"
+    },
+    {
+        "name": "Coby White",
+        "age": 19,
+        "college": "University of North Carolina"
+    },
+    {
+        "name": "Nassir Little",
+        "age": 19,
+        "college": "University of North Carolina"
+    },
+    {
+        "name": "Grant Williams",
+        "age": 20,
+        "college": "Tennessee"
+    }
+]
