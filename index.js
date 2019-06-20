@@ -5,6 +5,10 @@ const Controller = require('./db/controller')
 
 const app = express();
 
+const cors = require('cors')
+
+app.use(cors())
+
 app.use(parser.urlencoded({ extended: true}));
 
 app.use(parser.json());
